@@ -45,6 +45,10 @@
 
 ## Output:
 
+![image](https://github.com/aadithyan22000618/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113586376/343ae5c8-a1f1-47ec-b3a7-9287722da5fe)
+
+
+
 ### Name:Aadithyan R
 ### Register Number:212222230001
 
